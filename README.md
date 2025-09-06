@@ -78,9 +78,3 @@ Hello from the self-hosted CI/CD pipeline
 - The self-hosted runner eliminates SSH and networking issues common with cloud-based runners.
 
 ### Author: Kelvin Kwaku Agbozo
----
-
-Let me know if you want to add a diagram, test script, or polish this for submission. You’ve built something solid — now let’s make it shine.
-
-
-
